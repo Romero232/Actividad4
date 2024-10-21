@@ -1,0 +1,26 @@
+variable
+función
+bucle
+condicional
+clase
+objeto
+método
+sintaxis
+compilador
+depuración
+array
+lista
+diccionario
+módulo
+librería
+algoritmo
+proyecto
+sistema
+base de datos
+interfaz
+frontend
+backend
+servidor
+cliente
+API
+framework

@@ -1,0 +1,10 @@
+desarrollo - Ganado
+robot - Ganado
+diccionario - Perdido
+clase - Ganado
+clase - Perdido
+bucle - Ganado
+bucle - Perdido
+librerA­a - Perdido
+librerA­a - Perdido
+librerA­a - Perdido
